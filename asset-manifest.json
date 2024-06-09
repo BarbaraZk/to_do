@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BarbaraZk/to_do/static/css/main.3ac31e9c.css",
+    "main.js": "/BarbaraZk/to_do/static/js/main.0021e2ed.js",
+    "static/js/453.a6f6b83d.chunk.js": "/BarbaraZk/to_do/static/js/453.a6f6b83d.chunk.js",
+    "index.html": "/BarbaraZk/to_do/index.html",
+    "main.3ac31e9c.css.map": "/BarbaraZk/to_do/static/css/main.3ac31e9c.css.map",
+    "main.0021e2ed.js.map": "/BarbaraZk/to_do/static/js/main.0021e2ed.js.map",
+    "453.a6f6b83d.chunk.js.map": "/BarbaraZk/to_do/static/js/453.a6f6b83d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac31e9c.css",
+    "static/js/main.0021e2ed.js"
+  ]
+}
